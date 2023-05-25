@@ -10,8 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Mono;
 
 @RestController
+@RequestMapping("/api/v1/client")
 public class ClientController {
-    @GetMapping("home")
+    @GetMapping
     public Mono<String> home(@RegisteredOAuth2AuthorizedClient OAuth2AuthorizedClient client,
                              @AuthenticationPrincipal OidcUser oidcUser) {
         return Mono.just("""
