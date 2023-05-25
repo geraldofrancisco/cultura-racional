@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PortariaApplication {
+public class CulturaRacionalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PortariaApplication.class, args);
+		SpringApplication.run(CulturaRacionalApplication.class, args);
 	}
 
 }
