@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.thor.cultura-racional</groupId>
-	<artifactId>portaria</artifactId>
+	<artifactId>cultura-racional</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>portaria</name>
 	<description>reat api para portaria Retiro</description>

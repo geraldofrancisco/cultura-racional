@@ -1,4 +1,4 @@
-package com.thor.culturaracional.portaria.config;
+package com.thor.culturaracional.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

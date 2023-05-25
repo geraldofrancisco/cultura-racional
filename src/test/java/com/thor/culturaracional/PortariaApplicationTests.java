@@ -1,4 +1,4 @@
-package com.thor.culturaracional.portaria;
+package com.thor.culturaracional;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
